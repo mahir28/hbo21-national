@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mahirbd/hbo21-national/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ -->
+ 
+ 
+ **পরীক্ষার দিন এই লিংক এ পরীক্ষা দিতে হবে** 
+```
+পরীক্ষার তারিখঃ ২৪ আগষ্ট, ২০২১
+পরীক্ষার সময়ঃ 
+জুনিয়রঃ- সকাল ১০ টা থেকে ১২ টা 
+সেকেন্ডারিঃ- দুপুর ২টা থেকে ৪টা
+হায়ার সেকেন্ডারিঃ- বিকাল ৫ টা থেকে সন্ধ্যা ৭টা 
+```
